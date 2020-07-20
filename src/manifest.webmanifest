@@ -2,7 +2,7 @@
   "name": "Football PWA",
   "short_name": "FPWA",
   "description": "Football pwa application",
-  "gcm_sender_id": "1063320996595",
+  "gcm_sender_id": "",
   "icons": [
     {
       "src": "public/football-1.png",
